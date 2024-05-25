@@ -1,0 +1,13 @@
+h1{
+    text-align: center; background: #DCC600;
+}
+body {
+    background-image: url('imagens/merry.jpg');
+    background-size: cover; /* Isso faz com que a imagem cubra todo o elemento */
+    background-repeat: no-repeat; /* Isso evita que a imagem seja repetida */
+    background-color: #ffffff;
+}
+p{
+    text-align: center;
+
+}
